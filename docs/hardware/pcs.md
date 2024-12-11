@@ -8,6 +8,16 @@ sidebar_position: 2
 
 Gaming PCs are the foundation of most esports programs. They provide the performance and flexibility needed to play a wide range of competitive titles, from first-person shooters to strategy games. High-quality PCs ensure that players can focus on their skills without being hindered by hardware limitations.
 
+## How LF Helps
+
+We take the complexity out of PC selection by:
+- Evaluating your specific needs and budget 
+- Recommending proven hardware configurations
+- Leveraging our vendor relationships for best pricing
+- Ensuring compatibility across all components
+- Future-proofing your investment
+
+
 ## Key Components of a Gaming PC
 
 When selecting PCs for your esports program, focus on the following components:
@@ -59,12 +69,46 @@ Monitors should provide fast refresh rates and low response times. Key features 
 ### Recommendation
 For most schools, pre-built PCs are the most practical option due to ease of setup and support. However, if your program has access to technical expertise, custom-built PCs can be a cost-effective and flexible solution.
 
-## Maintenance and Upgrades
+## Not Just Gaming
 
-To ensure longevity and top performance, maintain PCs regularly by:
-- Cleaning internal components to prevent dust buildup.
-- Updating drivers and software to keep systems optimized.
-- Upgrading components, such as GPUs and RAM, as needed to stay competitive.
+The gaming PCs we help you select aren't just for esports - they're powerful tools that can support a variety of enrichment programs. These workstations open doors to exciting opportunities in:
+
+### Digital Creation
+- Video editing and production
+- Graphic design
+- 3D modeling and animation
+- Music production
+- Digital art
+
+### Programming & Development
+- Game development
+- Web development
+- App creation
+- Software engineering
+- Robotics programming
+
+### Artificial Intelligence
+- AI tools and applications
+- Machine learning projects
+- Data analysis
+- AI art generation
+- Chatbot development
+
+### Professional Skills
+- Streaming and broadcasting
+- Content creation
+- Social media management
+- Digital marketing
+- Project management
+
+By investing in quality gaming PCs, you're actually building a multi-purpose technology lab that can:
+- Support STEM education initiatives
+- Provide career exploration opportunities
+- Develop real-world technical skills
+- Foster creative expression
+- Prepare students for emerging technologies
+
+We can help you explore these additional uses and make the most of your technology investment. Your esports lab can become a hub for digital learning and creativity that serves your entire community.
 
 ---
 

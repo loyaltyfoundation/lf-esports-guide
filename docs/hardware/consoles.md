@@ -8,6 +8,10 @@ sidebar_position: 3
 
 While PCs dominate many esports titles, consoles offer a unique opportunity to expand your program. Certain games, such as **Rocket League**, **FIFA**, **NBA 2K**, and **Super Smash Bros.**, are often played competitively on consoles. By including consoles in your esports setup, you can appeal to a broader range of games and player preferences.
 
+:::note Note on Consoles
+Though consoles can be part of an esports program, we typically recommend investing in PCs when possible. PCs offer more flexibility, better performance, and support a wider range of educational opportunities beyond gaming. However, consoles can be a good supplementary option or alternative when PCs aren't feasible.
+:::
+
 ## Popular Consoles for Esports
 
 When choosing consoles, consider the specific games you plan to include in your program. Here are some of the most commonly used consoles in esports:
@@ -45,12 +49,6 @@ To ensure a complete setup, you’ll need these key peripherals for each console
 ## Networking Considerations for Consoles
 
 Consoles require a stable internet connection for online play. Use **wired Ethernet connections** wherever possible to reduce latency and ensure a competitive edge. If wireless is the only option, invest in a high-quality router to optimize performance.
-
-## Console-Specific Esports Opportunities
-
-Adding consoles can open doors to specific esports leagues and tournaments. For example:
-- **PlayVS** offers competitive leagues for games like Rocket League, FIFA, and Super Smash Bros.
-- Many community-driven events focus on Nintendo Switch titles.
 
 ---
 

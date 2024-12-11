@@ -60,9 +60,9 @@ When building your esports program, prioritize the following peripherals:
 
 While not essential, the following can enhance your esports setup:
 
-- **External Keypads**: Useful for specific games requiring additional key bindings.
-- **Cable Management Tools**: Keeps gaming stations organized and reduces clutter.
 - **Webcams**: Essential for streaming or video-based coaching sessions.
+- **External Microphones**: Professional audio quality for streaming or content creation. 
+- **Cable Management Tools**: Keeps gaming stations organized and reduces clutter.
 
 ---
 

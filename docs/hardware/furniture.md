@@ -16,9 +16,6 @@ The right furniture goes beyond aesthetics—it directly impacts player performa
   - Height adjustment to match desk height.
   - Reclining features for comfort during breaks.
   - Adjustable armrests for proper wrist alignment.
-- **Recommended Options**:
-  - Budget: Respawn 110, OFM Essentials Racing Chair.
-  - High-End: Secretlab Titan Evo, Herman Miller X Logitech Embody.
 
 ### **Desks**
 - **Gaming Desks**: Designed to accommodate multiple monitors, peripherals, and cable management.
@@ -26,9 +23,6 @@ The right furniture goes beyond aesthetics—it directly impacts player performa
   - Large surface area to fit monitors, keyboards, and mice.
   - Cable management systems to reduce clutter.
   - Adjustable height (or standing desk options) for ergonomic versatility.
-- **Recommended Options**:
-  - Budget: Atlantic Gaming Desk.
-  - High-End: Arozzi Arena Gaming Desk.
 
 ### **Monitor Stands**
 - **Monitor Arms or Stands**: Free up desk space and allow for adjustable monitor positioning.
